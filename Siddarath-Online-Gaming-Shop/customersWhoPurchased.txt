@@ -1,0 +1,54 @@
+First Name: Test
+Last Name: Jones
+Mobile number: 1234567
+Email: test@gmail.com
+Devliery address: 5a Test-Road
+ 
+First Name: John
+Last Name: Doe
+Mobile number: 1234567
+Email: john@gmail.com
+Devliery address: 5a Smith-Ave
+ 
+First Name: Terry
+Last Name: Jones
+Mobile number: 210232
+Email: tj@gmail.com
+Devliery address: 99 Brooklyn-Road
+ 
+First Name: Kelly
+Last Name: Lopez
+Mobile number: 6723412
+Email: lopez@hotmail.com
+Devliery address: 21-A Long-Street
+ 
+First Name: Jamiie
+Last Name: Singh
+Mobile number: 125673
+Email: jsingh@gmail.com
+Devliery address: 5a Pap-Road
+ 
+First Name: James
+Last Name: Singh
+Mobile number: 1234567
+Email: js@gmail.com
+Devliery address: 5a Smith-Ave
+ 
+First Name: Jamie
+Last Name: Oliver
+Mobile number: 12111
+Email: jo@cookmail.com
+Devliery address: 5-a Smith-Road
+ 
+First Name: Sid
+Last Name: Kumar
+Mobile number: 2022020
+Email: sid@gmail.com
+Devliery address: 5a-Smitth-Ave Pap
+ 
+First Name: nar
+Last Name: uto
+Mobile number: 123
+Email: hokage@gmail.com
+Devliery address: 54 Leaf-Village
+ 

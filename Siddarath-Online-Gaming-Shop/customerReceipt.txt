@@ -1,0 +1,20 @@
+================================= CUSTOMER RECEIPT ==================================
+Customer Name: nar uto
+Email: hokage@gmail.com
+Mobile Number: 123
+Delivery Address: 54 Leaf-Village
+Age: 34
+-------------------------------------------------------------------------------------
+                              Items you have purchased                               
+-------------------------------------------------------------------------------------
+Product purchased: Spider-Man adventures for PS3   Price: $40.0  Condition: PREOWNED
+Product purchased: Pokemon Go for Nintendo Switch  Price: $50.0  Condition: NEW
+-------------------------------------------------------------------------------------
+Customers over 50 receive a 20% discount, customers under 20 receive a 15% discount
+                                                                               
+Total cost excluding discount: $90.00
+Discount received: $0.00
+                                                                               
+Total cost: $90.00
+=====================================================================================
+
